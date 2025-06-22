@@ -64,5 +64,3 @@ This project is an interactive chatbot built with [Streamlit](https://streamlit.
 - Enter your business questions or tasks in the chat interface.
 - The assistant will respond with helpful answers, suggestions, or actions.
 - Use the sidebar to configure preferences or manage your API key.
-
-## Project Structure

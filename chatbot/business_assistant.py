@@ -3,7 +3,7 @@ from typing import List, Dict
 
 class BusinessAssistant:
     def __init__(self):
-        self.client = groq.Groq(api_key='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')
+        self.client = groq.Groq(api_key='your_api_key')
         self.contexts = {
             "customer_support": """You are a customer support specialist helping small businesses handle customer inquiries.
             Focus on providing professional, helpful responses for common customer service scenarios.""",

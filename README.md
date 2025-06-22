@@ -12,11 +12,15 @@ This project is an interactive chatbot built with [Streamlit](https://streamlit.
 - 🌐 **Easy-to-use Interface**: Clean, modern UI powered by Streamlit.
 
 ## Demo
-<p align="center"><img src="images/logo.png" width="200"/></p>
-<p align="center"><img src="images/logo.png" width="200"/></p>
-<p align="center"><img src="images/logo.png" width="200"/></p>
-<p align="center"><img src="images/logo.png" width="200"/></p>
-<p align="center"><img src="images/logo.png" width="200"/></p>
+<p align="center"><img src="ui/dashboard.png" width="500"/></p>
+<p align="center"><img src="ui/overview.png" width="500"/></p>
+<p align="center"><img src="ui/revenue trend.png" width="500"/></p>
+<p align="center"><img src="ui/analytics.png" width="500"/></p>
+<p align="center"><img src="ui/category.png" width="500"/></p>
+<p align="center"><img src="ui/campaign statistics.png" width="500"/></p>
+<p align="center"><img src="ui/chatbot.png" width="500"/></p>
+
+
 
 
 ## Getting Started
